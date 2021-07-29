@@ -1,0 +1,16 @@
+@media all and (max-width: 576px) {
+  .slider-responsive {
+    height: 250px;
+    object-fit: cover;
+  }
+  .small-image {
+    width: 100px;
+  }
+  .center-phone{
+    text-align: center;
+  }
+}
+
+.image_efect:hover {
+ filter: grayscale(60%);
+}
